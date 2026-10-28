@@ -1,0 +1,10 @@
+{
+  "packs": {
+    "Grins_Vader_pk_cc-by.zip": {
+      "descr": "Grinsgold: Darth Vader Complete Suit Mesh (AGPL License Pool)",
+      "url": "Makehuman-2/MH2_Asset_repository_AGPL/releases/download/AGPL/Grins_Vader_pk_cc-by.zip",
+      "base": "*",
+      "size": 6.14
+    }
+  }
+}
