@@ -3,6 +3,7 @@
     "bsom_astronaut_kit_agpl.zip": {
       "descr": "Grinsgold: Darth Vader Complete Suit Mesh (AGPL License Pool)",
       "url": "Makehuman-2/MH2_Asset_repository_AGPL/releases/download/AGPL/bsom_astronaut_kit_agpl.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_repository_AGPL/blob/main/reference/bsom_astro_demo.png",
       "base": "*",
       "size": 6.14
     }
