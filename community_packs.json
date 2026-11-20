@@ -1,11 +1,28 @@
 {
   "packs": {
-    "bsom_astronaut_kit_agpl.zip": {
+    "legacy-bsom_astronaut_kit_agpl.zip": {
       "descr": "Grinsgold: Darth Vader Complete Suit Mesh (AGPL License Pool)",
-      "url": "Makehuman-2/MH2_Asset_repository_AGPL/releases/download/AGPL/bsom_astronaut_kit_agpl.zip",
+      "url": "Makehuman-2/MH2_Asset_repository_AGPL/releases/download/AGPL/legacy-bsom_astronaut_kit_agpl.zip",
       "thumb": "https://github.com/Makehuman-2/MH2_Asset_repository_AGPL/blob/main/reference/bsom_astro_demo.png",
-      "base": "*",
-      "size": 6.14
+      "type": "clothes",
+      "base": "hm08",
+      "size": 1.53
+    },
+    "legacy-AGPL_hair_set.zip": {
+      "descr": "Legacy AGPL Community Hair Set (AGPL License Pool)",
+      "url": "Makehuman-2/MH2_Asset_repository_AGPL/releases/download/AGPL/legacy-AGPL_hair_set.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_repository_AGPL/blob/main/reference/agpl_hair_demo.png",
+      "type": "hair",
+      "base": "hm08",
+      "size": 86.4
+    },
+    "legacy-AGPL_jewellery_set.zip": {
+      "descr": "Legacy AGPL Community Jewellery Set (AGPL License Pool)",
+      "url": "Makehuman-2/MH2_Asset_repository_AGPL/releases/download/AGPL/legacy-AGPL_jewellery_set.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_repository_AGPL/blob/main/reference/agpl_jewellery_demo.png",
+      "type": "clothes",
+      "base": "hm08",
+      "size": 2.09
     }
   }
 }
