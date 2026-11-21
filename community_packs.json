@@ -23,6 +23,14 @@
       "type": "clothes",
       "base": "hm08",
       "size": 2.09
+    },
+    "legacy-DUclassic_ww_set_agpl.zip": {
+      "descr": "Legacy AGPL Wonder Woman Classical set by Duarteemerich)",
+      "url": "Makehuman-2/MH2_Asset_repository_AGPL/releases/download/AGPL/legacy-DUclassic_ww_set_agpl.zip",
+      "thumb": "https://github.com/Makehuman-2/MH2_Asset_repository_AGPL/blob/main/reference/DU_classic_ww_demo.png",
+      "type": "clothes",
+      "base": "hm08",
+      "size": 1.56
     }
   }
 }
